@@ -1,0 +1,10 @@
+Personal Notes
+
+1 — To create a starter HTML template, type:
+Shift + 1
+
+2 — In an HTML file, all the tags and content are written inside the <body> tag.
+
+3 — To open the terminal, press:
+Ctrl + J
+
