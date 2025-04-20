@@ -1,0 +1,4 @@
+1-- types of is used to dertime what type of string 
+
+2-- you can change the type vy wrapping them like  typeof String(a)
+
